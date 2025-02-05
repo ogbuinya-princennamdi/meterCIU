@@ -24,7 +24,7 @@ To run MeterCIU locally, follow the steps below:
 
 Clone the repository:
 
-git clone https://github.com/your-username/meterciu.git
+git clone https://github.com/ogbuinya-princennamdi/meterciu.git
 Navigate to the project directory:
 
 cd meterciu
